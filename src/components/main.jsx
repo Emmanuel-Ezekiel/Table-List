@@ -80,7 +80,7 @@ const Main = () => {
                      justifyContent: 'flex-end',
                      position: 'relative',
                     cursor: 'pointer',
-                    backgroundColor: '#fff',
+                    backgroundColor: '#f5f5f5',
                 }}>
                     <Stack spacing={2}>
                     <Pagination 
