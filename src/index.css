@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sidebar {
+  text-align: left;
+  background-color: darkblue;
+  color: #fff;
+  width: 250px;
+  height: 1000px;
+  margin-top: -3px;
+}
+
+.main {
+  background-color: aquamarine;
+  width: 1030px;
+  height: 1000px;
+  margin-top: -20px;
+}
+
+.page {
+  margin-left: 30px;
+}
+
+.App {
+  display: flex;
+}
